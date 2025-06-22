@@ -74,7 +74,8 @@ Edit
 npm start
 Acesse http://localhost:3000
 
-Link zippy-stroopwafel-51d5e1.netlify.app
+Link: 
+https://zippy-stroopwafel-51d5e1.netlify.app/   
 
 🌐 Deploy no Netlify
 📱 Mobile-First & Responsividade
